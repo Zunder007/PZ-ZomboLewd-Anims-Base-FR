@@ -1,0 +1,6 @@
+ContextMenu_FR = {
+	ContextMenu_Masturbation_FingerPussy = "Doigter la chatte",
+	ContextMenu_Masturbation_FingerAss = "Doigter le cul",
+	ContextMenu_Masturbation_FingerBoth = "Doigter les deux",
+	ContextMenu_Masturbation_StrokeCock = "Branler la bite",
+}
